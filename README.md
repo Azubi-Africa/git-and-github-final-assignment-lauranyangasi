@@ -21,7 +21,7 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  -     violation_        |  -  program for vehicle violations           | https://github.com/lauranyangasi/caps_.git       |
-| 2 |  -             |  -             | https://       |
+| 2 |  -   Capitalization          |  -  program that capitalizes the first letter of each word           |https://github.com/lauranyangasi/caps_.git    |
 | 3 |  -             |  -             | https://       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
