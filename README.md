@@ -22,7 +22,7 @@ The below table must contain the details of the repositories you will create, fi
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  -     violation_        |  -  program for vehicle violations           | https://github.com/lauranyangasi/caps_.git       |
 | 2 |  -   Capitalization          |  -  program that capitalizes the first letter of each word           |https://github.com/lauranyangasi/caps_.git    |
-| 3 |  -             |  -             | https://       |
+| 3 |  -    predictions         |  -   use different models to make predictions          |    https://github.com/lauranyangasi/prediction   |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
